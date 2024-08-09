@@ -1,1 +1,1 @@
-{"version":"1.0.1","news":"don alexbanper si estas bien webom eh."}
+{"version":"1.0.1","news":"Fix some issues."}
